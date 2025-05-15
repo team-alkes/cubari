@@ -4,5 +4,16 @@
   "artist": "Hotani Shin",
   "author": "Monjūsaki",
   "cover": "https://mangadex.org/covers/778b8438-af3a-4534-841c-adf923b55ee1/f1d15edd-a377-40be-a157-fec96f263e9c.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "There's a Dream I Want to Fulfill With You",
+      "volume": "1",
+      "last_updated": "1747292229",
+      "groups": {
+        "Saisir le rêve": [
+          "https://drive.usercontent.google.com/download?id=1GQYs8QCYmjQs6VVsEGblRDuS0sguPlcG"
+        ]
+      }
+    }
+  }
 }
