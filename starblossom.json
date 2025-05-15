@@ -75,7 +75,8 @@
           "https://files.dantsufla.me/ch1/64.jpg",
           "https://files.dantsufla.me/ch1/65_66.jpg",
           "https://files.dantsufla.me/ch1/67.jpg",
-          "https://files.dantsufla.me/ch1/68.jpg"
+          "https://files.dantsufla.me/ch1/68.jpg",
+          "https://files.dantsufla.me/credits_new.jpg"
         ]
       }
     },
@@ -85,28 +86,117 @@
       "last_updated": "1747293085",
       "groups": {
         "Saisir le rêve": [
-          "https://drive.usercontent.google.com/download?id=1XZDOIHR7BXI8YKEbWMVCWvG1bnUHOPAI",
-          "https://drive.usercontent.google.com/download?id=1bOUbZpsLfyLfv7eGg_NrJSgM5U5Y3BaL",
-          "https://drive.usercontent.google.com/download?id=1oMDMn4b8YLkHZEEwsCGGPiICNpQXxEta",
-          "https://drive.usercontent.google.com/download?id=1ue3T7iZwYKRWHx-kkwEOsotml3mbGQq_",
-          "https://drive.usercontent.google.com/download?id=141VcY1YvnFp5DiT9FesRrlzFIe68V4yU",
-          "https://drive.usercontent.google.com/download?id=1V3BVEqbmWV3_-wtCO0efpVfgUS2WbK-V",
-          "https://drive.usercontent.google.com/download?id=1DDhd8IaO3gmFr6Iqd4AEykNrYFTpStiC",
-          "https://drive.usercontent.google.com/download?id=1viRsZNFiJWnHhGTl_yQQ61PRkemRFTD2",
-          "https://drive.usercontent.google.com/download?id=1GgTd3N_CUindBXiywZ_NKYp6troHrJfW",
-          "https://drive.usercontent.google.com/download?id=16jfEzCTzL_G4BbJPIuQCA217EJL9Reye",
-          "https://drive.usercontent.google.com/download?id=1OTiVO9TBpxV67b82y4UTwJcknzVG8LYP",
-          "https://drive.usercontent.google.com/download?id=1YdJMxt3G7mZXDTrkPycCvC3F5oRrBOlp",
-          "https://drive.usercontent.google.com/download?id=1LBrxpwkeUR9yJkh0u6xPXtQoOrOnMUVR",
-          "https://drive.usercontent.google.com/download?id=1MCEw6vWQxO3UVbsXZEB_fwAF9xeXvzRO",
-          "https://drive.usercontent.google.com/download?id=1barOVH6LZnFCzGk3mJkTLN33YJmE-9gq",
-          "https://drive.usercontent.google.com/download?id=19T6QLtaV_Z2uTIsASEDyOEwNPIepdPwH",
-          "https://drive.usercontent.google.com/download?id=1qN7cRWhjE7JbeQPFVqPzphw8piWbg-UO",
-          "https://drive.usercontent.google.com/download?id=14C7QxCv5NX6t25tcjs0On0Zr-6fdpSgG",
-          "https://drive.usercontent.google.com/download?id=1bHb8_II3Tk84HMpQovN3bhZTRATmHKP5",
-          "https://drive.usercontent.google.com/download?id=1U6V_uWKaGcILIPv-_HW30Azmx_Ptj6hf",
-          "https://drive.usercontent.google.com/download?id=1ThPFRaz_FbYg295P--DxJFC3dRc0jAWO",
-          "https://drive.usercontent.google.com/download?id=1KvoYJ-1EFQcdRv6DpA6NALeBn3S4B17c"
+          "https://files.dantsufla.me/ch2/00.jpg",
+          "https://files.dantsufla.me/ch2/01.jpg",
+          "https://files.dantsufla.me/ch2/02.jpg",
+          "https://files.dantsufla.me/ch2/03.jpg",
+          "https://files.dantsufla.me/ch2/04.jpg",
+          "https://files.dantsufla.me/ch2/05.jpg",
+          "https://files.dantsufla.me/ch2/06.jpg",
+          "https://files.dantsufla.me/ch2/07.jpg",
+          "https://files.dantsufla.me/ch2/08.jpg",
+          "https://files.dantsufla.me/ch2/09.jpg",
+          "https://files.dantsufla.me/ch2/10.jpg",
+          "https://files.dantsufla.me/ch2/11.jpg",
+          "https://files.dantsufla.me/ch2/12.jpg",
+          "https://files.dantsufla.me/ch2/13.jpg",
+          "https://files.dantsufla.me/ch2/14.jpg",
+          "https://files.dantsufla.me/ch2/15.jpg",
+          "https://files.dantsufla.me/ch2/16.jpg",
+          "https://files.dantsufla.me/ch2/17.jpg",
+          "https://files.dantsufla.me/ch2/18.jpg",
+          "https://files.dantsufla.me/ch2/19.jpg",
+          "https://files.dantsufla.me/ch2/20.jpg",
+          "https://files.dantsufla.me/ch2/21.jpg",
+          "https://files.dantsufla.me/credits_new.jpg"
+        ]
+      }
+    },
+    "3": {
+      "title": "Race Planning",
+      "volume": "1",
+      "last_updated": "1747297171",
+      "groups": {
+        "Saisir le rêve": [
+          "https://files.dantsufla.me/ch3/00.jpg",
+          "https://files.dantsufla.me/ch3/01.jpg",
+          "https://files.dantsufla.me/ch3/02.jpg",
+          "https://files.dantsufla.me/ch3/03.jpg",
+          "https://files.dantsufla.me/ch3/04.jpg",
+          "https://files.dantsufla.me/ch3/05.jpg",
+          "https://files.dantsufla.me/ch3/06.jpg",
+          "https://files.dantsufla.me/ch3/07.jpg",
+          "https://files.dantsufla.me/ch3/08.jpg",
+          "https://files.dantsufla.me/ch3/09.jpg",
+          "https://files.dantsufla.me/ch3/10.jpg",
+          "https://files.dantsufla.me/ch3/11.jpg",
+          "https://files.dantsufla.me/ch3/12.jpg",
+          "https://files.dantsufla.me/ch3/13.jpg",
+          "https://files.dantsufla.me/ch3/14.jpg",
+          "https://files.dantsufla.me/ch3/15.jpg",
+          "https://files.dantsufla.me/ch3/16.jpg",
+          "https://files.dantsufla.me/ch3/17.jpg",
+          "https://files.dantsufla.me/ch3/18.jpg",
+          "https://files.dantsufla.me/ch3/19.jpg",
+          "https://files.dantsufla.me/ch3/20.jpg",
+          "https://files.dantsufla.me/credits_new.jpg"
+        ]
+      }
+    },
+    "4": {
+      "title": "Three Furlongs",
+      "volume": "1",
+      "last_updated": "1747297201",
+      "groups": {
+        "Saisir le rêve": [
+          "https://files.dantsufla.me/ch4/00.jpg",
+          "https://files.dantsufla.me/ch4/01.jpg",
+          "https://files.dantsufla.me/ch4/02.jpg",
+          "https://files.dantsufla.me/ch4/03.jpg",
+          "https://files.dantsufla.me/ch4/04.jpg",
+          "https://files.dantsufla.me/ch4/05.jpg",
+          "https://files.dantsufla.me/ch4/06.jpg",
+          "https://files.dantsufla.me/ch4/07.jpg",
+          "https://files.dantsufla.me/ch4/08.jpg",
+          "https://files.dantsufla.me/ch4/09.jpg",
+          "https://files.dantsufla.me/ch4/10.jpg",
+          "https://files.dantsufla.me/ch4/11_12.jpg",
+          "https://files.dantsufla.me/ch4/13.jpg",
+          "https://files.dantsufla.me/ch4/14.jpg",
+          "https://files.dantsufla.me/ch4/15.jpg",
+          "https://files.dantsufla.me/ch4/16.jpg",
+          "https://files.dantsufla.me/ch4/17.jpg",
+          "https://files.dantsufla.me/ch4/18.jpg",
+          "https://files.dantsufla.me/ch4/19.jpg",
+          "https://files.dantsufla.me/ch4/20.jpg",
+          "https://files.dantsufla.me/credits_new.jpg"
+        ]
+      }
+    },
+    "5": {
+      "title": "All Thanks to You",
+      "volume": "1",
+      "last_updated": "1747297565",
+      "groups": {
+        "Saisir le rêve": [
+          "https://files.dantsufla.me/ch5/00.jpg",
+          "https://files.dantsufla.me/ch5/01.jpg",
+          "https://files.dantsufla.me/ch5/02.jpg",
+          "https://files.dantsufla.me/ch5/03.jpg",
+          "https://files.dantsufla.me/ch5/04.jpg",
+          "https://files.dantsufla.me/ch5/05.jpg",
+          "https://files.dantsufla.me/ch5/06.jpg",
+          "https://files.dantsufla.me/ch5/07.jpg",
+          "https://files.dantsufla.me/ch5/08.jpg",
+          "https://files.dantsufla.me/ch5/09.jpg",
+          "https://files.dantsufla.me/ch5/10.jpg",
+          "https://files.dantsufla.me/ch5/11.jpg",
+          "https://files.dantsufla.me/ch5/12.jpg",
+          "https://files.dantsufla.me/ch5/13.jpg",
+          "https://files.dantsufla.me/ch5/14.jpg",
+          "https://files.dantsufla.me/ch5/15.jpg",
+          "https://files.dantsufla.me/ch5/16.jpg",
+          "https://files.dantsufla.me/credits_new.jpg"
         ]
       }
     }
