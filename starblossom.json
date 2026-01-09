@@ -1137,6 +1137,25 @@
           "https://files.dantsufla.me/credits_new.jpg"
         ]
       }
+    },
+    "35.5": {
+      "title": "Concept Art 2 (Bonus Chapter)",
+      "volume": "4",
+      "last_updated": "1767989496",
+      "groups": {
+        "Saisir le rêve": [
+          "https://files.dantsufla.me/vol4/ch35_5/01.jpg",
+          "https://files.dantsufla.me/vol4/ch35_5/02.jpg",
+          "https://files.dantsufla.me/vol4/ch35_5/03.jpg",
+          "https://files.dantsufla.me/vol4/ch35_5/04.jpg",
+          "https://files.dantsufla.me/vol4/ch35_5/05.jpg",
+          "https://files.dantsufla.me/vol4/ch35_5/06.jpg",
+          "https://files.dantsufla.me/vol4/ch35_5/07.jpg",
+          "https://files.dantsufla.me/vol4/ch35_5/08.jpg",
+          "https://files.dantsufla.me/vol4/ch35_5/09.jpg",
+          "https://files.dantsufla.me/credits_newer.jpg"
+        ]
+      }
     }
   }
 }
