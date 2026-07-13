@@ -3,7 +3,7 @@
   "description": "The popular cross-media content \"Umamusume Pretty Derby\" features \"Umamusume\" who have inherited the names and souls of numerous racehorses! A new legend begins with the indomitable horse girl \"Sakura Laurel\" as the main character.",
   "artist": "Hotani Shin",
   "author": "Monjūsaki",
-  "cover": "https://files.umamusu.moe/vol5/omake/vol5_cover.jpg",
+  "cover": "https://files.umamusu.moe/omake/vol6_cover.jpg",
   "chapters": {
     "1": {
       "title": "There's a Dream I Want to Fulfill With You",
@@ -1908,6 +1908,40 @@
           "https://files.umamusu.moe/vol5/ch47_5/47_5_17.png",
           "https://files.umamusu.moe/vol5/ch47_5/47_5_18.png",
           "https://files.umamusu.moe/vol5/ch47_5/47_5_19.png",
+          "https://files.umamusu.moe/credits_newerer.png"
+        ]
+      }
+    },
+    "58.5": {
+      "title": "Journey",
+      "volume": "7",
+      "last_updated": "1783984130",
+      "groups": {
+        "Saisir le rêve": [
+          "https://files.umamusu.moe/vol7/ch58.5/ch58.5_01.png",
+          "https://files.umamusu.moe/vol7/ch58.5/ch58.5_02.png",
+          "https://files.umamusu.moe/vol7/ch58.5/ch58.5_03.png",
+          "https://files.umamusu.moe/vol7/ch58.5/ch58.5_04.png",
+          "https://files.umamusu.moe/vol7/ch58.5/ch58.5_05.png",
+          "https://files.umamusu.moe/vol7/ch58.5/ch58.5_06.png",
+          "https://files.umamusu.moe/vol7/ch58.5/ch58.5_07.png",
+          "https://files.umamusu.moe/vol7/ch58.5/ch58.5_08-09.png",
+          "https://files.umamusu.moe/vol7/ch58.5/ch58.5_10.png",
+          "https://files.umamusu.moe/vol7/ch58.5/ch58.5_11.png",
+          "https://files.umamusu.moe/vol7/ch58.5/ch58.5_12.png",
+          "https://files.umamusu.moe/vol7/ch58.5/ch58.5_13.png",
+          "https://files.umamusu.moe/vol7/ch58.5/ch58.5_14.png",
+          "https://files.umamusu.moe/vol7/ch58.5/ch58.5_15.png",
+          "https://files.umamusu.moe/vol7/ch58.5/ch58.5_16.png",
+          "https://files.umamusu.moe/vol7/ch58.5/ch58.5_17.png",
+          "https://files.umamusu.moe/vol7/ch58.5/ch58.5_18.png",
+          "https://files.umamusu.moe/vol7/ch58.5/ch58.5_19.png",
+          "https://files.umamusu.moe/vol7/ch58.5/ch58.5_20.png",
+          "https://files.umamusu.moe/vol7/ch58.5/ch58.5_21.png",
+          "https://files.umamusu.moe/vol7/ch58.5/ch58.5_22.png",
+          "https://files.umamusu.moe/vol7/ch58.5/ch58.5_23.png",
+          "https://files.umamusu.moe/vol7/ch58.5/ch58.5_24.png",
+          "https://files.umamusu.moe/vol7/ch58.5/ch58.5_25.png",
           "https://files.umamusu.moe/credits_newerer.png"
         ]
       }
