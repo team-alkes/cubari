@@ -1945,6 +1945,54 @@
           "https://files.umamusu.moe/credits_newerer.png"
         ]
       }
+    },
+    "59.1": {
+      "title": "What Can You Do? (Part 1)",
+      "volume": "7",
+      "last_updated": "1784140259",
+      "groups": {
+        "Saisir le rêve": [
+          "https://files.umamusu.moe/vol7/ch59.1/ch59.1_01.png",
+          "https://files.umamusu.moe/vol7/ch59.1/ch59.1_02_03.png",
+          "https://files.umamusu.moe/vol7/ch59.1/ch59.1_04.png",
+          "https://files.umamusu.moe/vol7/ch59.1/ch59.1_05.png",
+          "https://files.umamusu.moe/vol7/ch59.1/ch59.1_06.png",
+          "https://files.umamusu.moe/vol7/ch59.1/ch59.1_07.png",
+          "https://files.umamusu.moe/vol7/ch59.1/ch59.1_08.png",
+          "https://files.umamusu.moe/vol7/ch59.1/ch59.1_09.png",
+          "https://files.umamusu.moe/vol7/ch59.1/ch59.1_10.png",
+          "https://files.umamusu.moe/vol7/ch59.1/ch59.1_11.png",
+          "https://files.umamusu.moe/vol7/ch59.1/ch59.1_12.png",
+          "https://files.umamusu.moe/vol7/ch59.1/ch59.1_13.png",
+          "https://files.umamusu.moe/vol7/ch59.1/ch59.1_14.png",
+          "https://files.umamusu.moe/vol7/ch59.1/ch59.1_15.png",
+          "https://files.umamusu.moe/vol7/ch59.1/ch59.1_16.png",
+          "https://files.umamusu.moe/vol7/ch59.1/ch59.1_17.png",
+          "https://files.umamusu.moe/credits_newerer.png"
+        ]
+      }
+    },
+    "59.2": {
+      "title": "What Can You Do? (Part 2)",
+      "volume": "7",
+      "last_updated": "1784140354",
+      "groups": {
+        "Saisir le rêve": [
+          "https://files.umamusu.moe/vol7/ch59.2/ch59.2_01.png",
+          "https://files.umamusu.moe/vol7/ch59.2/ch59.2_02.png",
+          "https://files.umamusu.moe/vol7/ch59.2/ch59.2_03.png",
+          "https://files.umamusu.moe/vol7/ch59.2/ch59.2_04.png",
+          "https://files.umamusu.moe/vol7/ch59.2/ch59.2_05.png",
+          "https://files.umamusu.moe/vol7/ch59.2/ch59.2_06.png",
+          "https://files.umamusu.moe/vol7/ch59.2/ch59.2_07.png",
+          "https://files.umamusu.moe/vol7/ch59.2/ch59.2_08.png",
+          "https://files.umamusu.moe/vol7/ch59.2/ch59.2_09.png",
+          "https://files.umamusu.moe/vol7/ch59.2/ch59.2_10.png",
+          "https://files.umamusu.moe/vol7/ch59.2/ch59.2_11.png",
+          "https://files.umamusu.moe/vol7/ch59.2/ch59.2_12.png",
+          "https://files.umamusu.moe/credits_newerer.png"
+        ]
+      }
     }
   }
 }
